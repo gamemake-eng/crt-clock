@@ -1,5 +1,5 @@
 # CRT Clock
 
-## A cool looking GPU accelrated clock!
+## A cool looking GPU accelerated clock!
 
 ![image](image.png)
