@@ -2,4 +2,4 @@
 
 ## A cool looking GPU accelrated clock!
 
-![image.png](image)
+![image](image.png)
